@@ -30,6 +30,7 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 * [grep工作原理](docs/grep工作原理.md)
 * [grep环境变量](docs/grep环境变量.md)
 * [grep退出码](docs/grep退出码.md)
+* [常用方式汇总](docs/常用方式汇总.md)
 
 
 ## 参考
